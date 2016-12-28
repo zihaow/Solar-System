@@ -4,7 +4,7 @@ This is an OpenGL project built to simulate our solar system with 9 planets (unt
 and one starship USS-Enterprise that allows you move in 3D space. 
 
 ## To run
-Make sure you have freeglut.h included as dependency on your visual studio project.
+Simply download the Flight_Simulator.zip file and unzipp it to run the executable file. 
 
 ## Key controls
 1. Toggle 'R': enable rings.
